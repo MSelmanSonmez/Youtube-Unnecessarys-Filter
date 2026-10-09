@@ -77,6 +77,7 @@ www.youtube.com##ytd-rich-shelf-renderer:has(#title-container a[href="/playlist?
 www.youtube.com###visible-banners > .yt-live-chat-banner-manager.style-scope
 www.youtube.com###contents > ytd-recognition-shelf-renderer
 www.youtube.com##ytd-item-section-renderer:has(ytd-recognition-shelf-renderer)
+www.youtube.com##ytd-brand-video-shelf-renderer:has(a[href="/channel_memberships"]):remove()
 
 ! Youtube Mobile
 
