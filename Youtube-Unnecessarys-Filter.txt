@@ -13,7 +13,6 @@ www.youtube.com##+js(aeld, webkitvisibilitychange)
 www.youtube.com##+js(aeld, visibilitychange)
 www.youtube.com##+js(aeld, wheel)
 www.youtube.com##+js(nano-sib)
-www.youtube.com##+js(aeld, blur)
 
 ! Does work with the Ublock Origin Lite and Ublock Origin Lite extension.
 
