@@ -9,7 +9,6 @@
 
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause_timeout_minutes, 0)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause, false)
-www.youtube.com##+js(aeld, webkitvisibilitychange)
 www.youtube.com##+js(aeld, visibilitychange)
 www.youtube.com##+js(aeld, wheel)
 www.youtube.com##+js(nano-sib)
