@@ -80,6 +80,7 @@ www.youtube.com##ytd-brand-video-shelf-renderer:has(a[href="/channel_memberships
 www.youtube.com##ytd-rich-section-renderer:has(> #content:empty)
 www.youtube.com##ytd-inline-survey-renderer:remove()
 www.youtube.com##ytd-rich-item-renderer:has(a[href^="/show/"])
+www.youtube.com##ytd-rich-shelf-renderer:has(a[href="/playables"])
 
 ! Youtube Mobile
 
