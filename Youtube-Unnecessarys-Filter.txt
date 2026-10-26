@@ -81,6 +81,7 @@ www.youtube.com##ytd-inline-survey-renderer:remove()
 www.youtube.com##ytd-rich-item-renderer:has(a[href^="/show/"])
 www.youtube.com##ytd-rich-shelf-renderer:has(a[href="/playables"])
 www.youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
+www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
 
 *_ad_$media,domain=youtube.com,3p
 ! @@||youtube.com/get_video_info?*timedtext_editor$xhr,1p
