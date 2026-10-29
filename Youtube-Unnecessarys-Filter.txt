@@ -83,6 +83,8 @@ www.youtube.com##ytd-rich-shelf-renderer:has(a[href="/playables"])
 www.youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
 www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
 www.youtube.com##tp-yt-paper-dialog:has(ytd-enforcement-message-view-model):remove()
+www.youtube.com##ytd-video-masthead-ad-v3-renderer
+www.youtube.com###masthead-ad:remove()
 
 *_ad_$media,domain=youtube.com,3p
 ! @@||youtube.com/get_video_info?*timedtext_editor$xhr,1p
